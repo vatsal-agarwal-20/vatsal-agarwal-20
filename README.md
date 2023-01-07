@@ -9,7 +9,7 @@
 <p align = "center">
     <a href="https://discord.gg/Vatsal#6472"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt = "Vatsal's Discord"></a>
 <a href="https://www.linkedin.com/in/vatsal-agarwal-1431a6209/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt = "Vatsal's Linkedin"></a>
- <a href="https://www.instagram.com/vatsalag_0904_/"><img src="https://img.shields.io/badge/-Instagram-ff69b4" alt = "Vatsal's Instagram"></a>
+ <a href="https://www.instagram.com/vatsalag_0904_/"><img src="https://img.shields.io/badge/-Instagram-ff69b4.svg?logo=linkedin&logoColor=white" alt = "Vatsal's Instagram"></a>
     
 </p>
 
